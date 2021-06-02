@@ -9,7 +9,8 @@ export default function ExperiencePage({ className }) {
       <ul className="experience-page__list">
         <li className="experience-page__list-item">
           <h4 className="experience-page__list-item-name">Software Engineer Intern</h4>
-          <p>Arbor Networks, Sep 2017 - Feb 2018</p>
+          <p>Sep 2017 - Feb 2018</p>
+          <p>Arbor Networks, Sydney</p>
           <ul className="experience-page__sub-list">
             <li>
               Built a single page web application which shows a global summary of DDoS attacks.
@@ -23,7 +24,8 @@ export default function ExperiencePage({ className }) {
           <h4 className="experience-page__list-item-name">
             Primary Years Program (International Baccalaureate) Teacher
           </h4>
-          <p>International School of Lund - Katedralskolan, Aug 2015 - June 2016</p>
+          <p>Aug 2015 - Jun 2016</p>
+          <p>International School of Lund - Katedralskolan</p>
           <ul className="experience-page__sub-list">
             <li>
               Developed and facilitated learning experiences for primary school-aged students from a
@@ -38,7 +40,8 @@ export default function ExperiencePage({ className }) {
         </li>
         <li className="experience-page__list-item">
           <h4 className="experience-page__list-item-name">Classroom Teacher</h4>
-          <p>Cabramatta West Public School , June 2010 - Nov 2012</p>
+          <p>Jun 2010 - Nov 2012</p>
+          <p>Cabramatta West Public School, Sydney</p>
           <ul className="experience-page__sub-list">
             <li>
               Developed and facilitated learning experiences for Kindergarten – Year 6 students.

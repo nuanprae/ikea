@@ -8,9 +8,9 @@ export default function LetterPage({ className }) {
     <section className={classNamesHelper('letter-page', className)}>
       <header className="letter-page__header">
         <h3 className="letter-page__header-greeting">Hej!</h3>
-        <h4>I'm Nuanprae</h4>
+        <h4>I'm Nuanprae.</h4>
         <h4>lifelong learner</h4>
-        <h4>junior web developer</h4>
+        <h4>web developer</h4>
         <h4>
           mother of three (<span className="letter-page__strike">dragons</span> children)
         </h4>
@@ -30,7 +30,7 @@ export default function LetterPage({ className }) {
         within the company and learned how to <b>effectively work in an agile team</b>. I was also a
         part of Node Girls Sydney, an organisation that runs free JavaScript and Node.js workshops
         for women, non-binary and trans people, first as a participant, then later on as{' '}
-        <b>a mentor and speaker at their events</b>.
+        <b>a mentor and speaker</b> at their events.
       </p>
       <p className="letter-page__paragraph">
         Before changing my career path to web development, I worked as a primary school teacher in
@@ -43,7 +43,7 @@ export default function LetterPage({ className }) {
       <p className="letter-page__paragraph">
         After moving back to Sweden in 2018, I went on parental leave and completed a Swedish as a
         second language course (grundläggande nivå) at Komvux. In November 2020 I started an
-        intensive full stack web development course at{' '}
+        intensive full-stack web development course at{' '}
         <a
           className="letter-page__external-link"
           href="https://www.foocoding.org/"

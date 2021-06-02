@@ -22,6 +22,7 @@ b {
 }
 .letter-page__strike {
   text-decoration: line-through;
+  text-decoration-thickness: 1px;
 }
 .letter-page__external-link {
   color: inherit;
