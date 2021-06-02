@@ -31,7 +31,7 @@ export default function EducationPage({ className }) {
           <h4 className="education-page__list-item-name">
             Bachelor of Arts (Advanced German Studies and Japanese Studies)
           </h4>
-          <p>2006-2009</p>
+          <p>2006-2008</p>
           <p>University of New South Wales</p>
         </li>
         <li className="education-page__list-item">
