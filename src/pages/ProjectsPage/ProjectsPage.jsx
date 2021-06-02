@@ -13,7 +13,7 @@ export default function ProjectsPage({ className }) {
         <header className="projects-page__project-title">
           <h3>Animal Crossing Daily Report</h3>
         </header>
-        <a href="https://nuanprae.github.io/react/" rel="noreferrer" target="_blank">
+        <a href="https://nuanprae.github.io/animal-crossing-app/" rel="noreferrer" target="_blank">
           <img
             className="projects-page__project-image"
             src={animalCrossingImg}
