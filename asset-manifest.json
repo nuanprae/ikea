@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ikea/static/css/main.a1cfe946.chunk.css",
+    "main.js": "/ikea/static/js/main.e08ca5b6.chunk.js",
+    "main.js.map": "/ikea/static/js/main.e08ca5b6.chunk.js.map",
+    "runtime-main.js": "/ikea/static/js/runtime-main.0edbb96b.js",
+    "runtime-main.js.map": "/ikea/static/js/runtime-main.0edbb96b.js.map",
+    "static/js/2.89919d20.chunk.js": "/ikea/static/js/2.89919d20.chunk.js",
+    "static/js/2.89919d20.chunk.js.map": "/ikea/static/js/2.89919d20.chunk.js.map",
+    "static/js/3.99de2784.chunk.js": "/ikea/static/js/3.99de2784.chunk.js",
+    "static/js/3.99de2784.chunk.js.map": "/ikea/static/js/3.99de2784.chunk.js.map",
+    "index.html": "/ikea/index.html",
+    "static/css/main.a1cfe946.chunk.css.map": "/ikea/static/css/main.a1cfe946.chunk.css.map",
+    "static/js/2.89919d20.chunk.js.LICENSE.txt": "/ikea/static/js/2.89919d20.chunk.js.LICENSE.txt",
+    "static/media/animal-crossing.81301e82.png": "/ikea/static/media/animal-crossing.81301e82.png",
+    "static/media/memory-game.c4f33735.png": "/ikea/static/media/memory-game.c4f33735.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0edbb96b.js",
+    "static/js/2.89919d20.chunk.js",
+    "static/css/main.a1cfe946.chunk.css",
+    "static/js/main.e08ca5b6.chunk.js"
+  ]
+}
