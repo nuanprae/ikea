@@ -56,13 +56,13 @@ export default function LetterPage({ className }) {
         and practical skills in <b>React.js, JavaScript, Node.js, HTML, CSS and Git</b>.
       </p>
       <p className="letter-page__paragraph">
-        I’m absolutely thrilled to be applying for a role within the IKEA Accelerator Program 2021 -
-        Junior Software Engineer. I would love to become one of the co-workers at IKEA where my
-        values and skills can help{' '}
-        <b>create a meaningful digital experience for the many people in the world</b>. I believe
-        that I will grow immensely by being a part of this program where I, along with co-workers,{' '}
-        <b>put IKEA values into practice</b>. I look forward to an opportunity to further show you
-        how I can contribute to working at IKEA.
+        I’m absolutely thrilled to be applying for a role within the IKEA Accelerator Program 2021.
+        It is important for me to <b>create a positive impact on the world</b> through my work. I
+        want to help create an intuitive digital experience at IKEA, so that millions of people can
+        have access to <b>sustainably and democratically designed products</b>. This program will
+        allow me to quickly gain an in-depth knowledge of practices and lay a solid foundation, so
+        that I am able to <b>solve the challenges IKEA faces today and tomorrow</b>. I look forward
+        to an opportunity to further show you how I can contribute to working at IKEA.
       </p>
       <p className="letter-page__paragraph">Thank you for your time and consideration.</p>
       <p>Kind regards,</p>
