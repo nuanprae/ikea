@@ -30,7 +30,7 @@ export default function ProjectsPage({ className }) {
               and weather of the day, just like in the game
             </li>
             <li>filtering critters</li>
-            <li>finding information about each critter</li>
+            <li>finding information about each critter (data fetched from a RESTful API)</li>
           </ul>
         </main>
       </article>
